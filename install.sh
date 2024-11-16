@@ -23,7 +23,7 @@ display_welcome() {
   echo -e "ᴡʜᴀᴛsᴀᴘᴘ :"
   echo -e "+6282138079249"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@ʀᴇᴠxᴢᴢ"
+  echo -e "@Revxz"
   sleep 4
   clear
 }
@@ -510,7 +510,7 @@ while true; do
   echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer ArdXRyz   ${NC}"
+  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer Revxz     ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
   echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : Revxzoffc   ${NC}"
   echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : Revxz offc   ${NC}"
